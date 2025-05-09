@@ -15,4 +15,12 @@ bigdata.fna.gz: Compressed FASTA file containing genomic sequences used for anal
 primer.csv: CSV file listing primer sequences utilized in PCR amplification tasks.
 
 # Quick Start
+Clone the repository
+`git clone https://github.com/wyman-chan/Linux-Bash-Scripts.git
+cd Linux-Bash-Scripts`
+
+Make scripts executable
+`chmod +x CHAN_backup.sh CHAN_fasta_script.sh CHAN_project_bash.sh`
+
+Run the scripts
 `sh CHAN_backup.sh`
