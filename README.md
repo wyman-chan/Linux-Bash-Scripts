@@ -16,6 +16,7 @@ primer.csv: CSV file listing primer sequences utilized in PCR amplification task
 
 # Quick Start
 Clone the repository
+
 `git clone https://github.com/wyman-chan/Linux-Bash-Scripts.git
 cd Linux-Bash-Scripts`
 
