@@ -14,3 +14,5 @@ bigdata.fna.gz: Compressed FASTA file containing genomic sequences used for anal
 
 primer.csv: CSV file listing primer sequences utilized in PCR amplification tasks.
 
+# Quick Start
+'sh CHAN_backup.sh'
