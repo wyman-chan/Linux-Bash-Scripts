@@ -21,7 +21,9 @@ Clone the repository
 cd Linux-Bash-Scripts`
 
 Make scripts executable
+
 `chmod +x CHAN_backup.sh CHAN_fasta_script.sh CHAN_project_bash.sh`
 
 Run the scripts
+
 `sh CHAN_backup.sh`
