@@ -32,3 +32,6 @@ Run the scripts:
 `sh CHAN_fasta_script.sh`
 
 `sh CHAN_project_bash.sh`
+
+# Example
+Two test files are provided to troubleshoot the programs.
