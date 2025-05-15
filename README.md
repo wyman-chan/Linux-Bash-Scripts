@@ -34,4 +34,8 @@ Run the scripts:
 `sh CHAN_project_bash.sh`
 
 # Example
-Two test files are provided to troubleshoot the programs.
+Two test files are provided to troubleshoot the programs. This is what the output should look like after running all programs.
+![C4AB72BE-4983-4902-9D5B-C6A73D90CC95_4_5005_c](https://github.com/user-attachments/assets/b426551c-4583-4481-b786-90d6f4f151c6)
+
+
+
