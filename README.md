@@ -27,3 +27,7 @@ Make scripts executable:
 Run the scripts:
 
 `sh CHAN_backup.sh`
+
+`sh CHAN_fasta_script.sh`
+
+`sh CHAN_project_bash.sh`
