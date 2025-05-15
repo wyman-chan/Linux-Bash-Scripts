@@ -35,8 +35,9 @@ Run the scripts:
 
 # Example
 Two test files are provided to troubleshoot the programs. This is what the output should look like after running all programs.
+Finder:
 ![C4AB72BE-4983-4902-9D5B-C6A73D90CC95_4_5005_c](https://github.com/user-attachments/assets/b426551c-4583-4481-b786-90d6f4f151c6)
-
+Terminal:
 ![7C3DB41F-7D23-483E-97F3-916641D3E687_4_5005_c](https://github.com/user-attachments/assets/54736d91-c370-4079-9c72-34c2b57e5592)
 
 
